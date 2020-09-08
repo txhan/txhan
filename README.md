@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 This is txhan， PHD candidate in Zhejiang University
+- 🌱 I’m currently learning CV with edge intelligence
+## FPGA Jetson Ascend HI3359 NCS
 
 <!--
 **txhan/txhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
