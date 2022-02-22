@@ -1,8 +1,9 @@
 ### Hi there 👋 This is txhan， PHD candidate in Zhejiang University
 - 🌱 I’m currently learning CV with edge intelligence
 - 🔭 I’m currently working on task-oriented deep method for edge wireless communication
-## FPGA Jetson Ascend HI3359 NCS
+## embedded AI ：FPGA Jetson HI3359 NCS
 ## semantic communication and deep joint source and channel coding
+
 
 <!--
 **txhan/txhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
