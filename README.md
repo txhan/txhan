@@ -1,7 +1,7 @@
 ### Hi there 👋 This is txhan， PHD candidate in Zhejiang University
-- 🌱 I’m currently learning CV with edge intelligence
+- 🌱 I have done a computer vision(FPGA\NPU) with edge intelligence(finished)
 - 🔭 I’m currently working on task-oriented deep method for edge wireless communication
-## embedded AI ：FPGA Jetson HI3359 NCS
+- 🔭 I’m also currently working on generative based semantic communication.
 ## semantic communication and deep joint source and channel coding
 
 
