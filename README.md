@@ -1,8 +1,4 @@
-### Hi there 👋 This is txhan， PHD candidate in Zhejiang University
-- 🌱 I have done a computer vision(FPGA\NPU) with edge intelligence(finished)
-- 🔭 I’m currently working on task-oriented deep method for edge wireless communication
-- 🔭 I’m also currently working on generative based semantic communication.
-## semantic communication and deep joint source and channel coding
+### Hopefully， everything is fine.
 
 
 <!--
